@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home">Головна</string>
+    <string name="search_location">Пошук міста</string>
+    <string name="search_error">Місто не знайдено, будь ласка, спробуйте ще раз.</string>
+    <string name="n_a">Не знайдено</string>
+    <string name="current_location">Поточне місцезнаходження</string>
+    <string name="search_manually">Вибрати самому</string>
+    <string name="choose_location_method">Виберіть з якого місця показувати погоду</string>
+    <string name="wind">Вітер</string>
+    <string name="humidity">Вологість</string>
+    <string name="chance_of_rain">Можливість дощу</string>
+    <string name="choose_your_location">Виберіть місце</string>
+    <string name="choose_degrees_type">Виберіть розмірність градусів</string>
+    <string name="celsius">Градус Цельсія(°C)</string>
+    <string name="fahrenheit">Градус Фаренгейта(°F)</string>
+    <string name="km_h">км/год</string>
+</resources>

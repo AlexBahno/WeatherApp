@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name" translatable="false">Weather App</string>
+    <string name="home">Home</string>
+    <string name="search_location">Search Location</string>
+    <string name="search_error">Location not found, please try again.</string>
+    <string name="n_a">N/A</string>
+    <string name="current_location">Current Location</string>
+    <string name="search_manually">Search Manually</string>
+    <string name="choose_location_method">Choose Location Method</string>
+    <string name="wind">Wind</string>
+    <string name="humidity">Humidity</string>
+    <string name="chance_of_rain">Chance of rain</string>
+    <string name="choose_your_location">Choose your location</string>
+    <string name="choose_degrees_type">Choose degrees type</string>
+    <string name="celsius">Degree Celsius(°C)</string>
+    <string name="fahrenheit">Degree Fahrenheit(°F)</string>
+    <string name="km_h">km/h</string>
+</resources>
